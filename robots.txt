@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://feiwuothue.patrick-dunn.com/sitemap.xml
